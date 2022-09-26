@@ -1,10 +1,10 @@
 # Actividades_IBM3202
 Repositorio de scripts de actividades
 
-##Challenge 1:
+## Challenge 1:
 
 
-## Links a Jupyter Notebook
+## Links a Actividades
 
 <!-- Tick      : &#10003 -->
 <!-- Bold tick : &#10004 -->
