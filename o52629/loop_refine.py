@@ -15,7 +15,7 @@ class MyLoop(LoopModel):
         return Selection(self.residue_range('90:A', '100:A'),
         		self.residue_range('220:A', '225:A'))
 m = MyLoop(env,
-           inimodel='target.B99990003.pdb', # initial model of the target
+           inimodel='target.B99990023.pdb', # initial model of the target
            sequence='target')       # code of the target
 
 m.loop.starting_model= 22           # index of the first loop model 
