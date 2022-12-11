@@ -34,7 +34,9 @@ Repositorio de scripts de actividades
 
 ## Proyecto:
 Para ejecutar GEOPPI se utilizó el siguiente link : https://github.com/Liuxg16/GeoPPI.
+
 Link de la estructura de folding: https://www.rcsb.org/structure/7SEM.
+
 Link de estructuras modeladas en SWISSMODEL: 
 
 <!-- Tick      : &#10003 -->
@@ -42,10 +44,10 @@ Link de estructuras modeladas en SWISSMODEL:
 
 | Mutación |Link    | 
 |:--------|:-----------------|
-| S31 POR   L    |[LINK]https://swissmodel.expasy.org/interactive/KUcLvR/models/ | 
+| S31 POR   L    |[LINK](https://swissmodel.expasy.org/interactive/KUcLvR/models/ | 
 |S31 POR T      |  [LINK](https://swissmodel.expasy.org/interactive/FJqFeu/models/) | 
 | A97 POR H      | [LINK](https://swissmodel.expasy.org/interactive/2vnF5Z/models/) | 
-| A97 POR W     | [LINK(https://swissmodel.expasy.org/interactive/5yt5c2/models/) | 
+| A97 POR W     | [LINK](https://swissmodel.expasy.org/interactive/5yt5c2/models/) | 
 
 En la siguiente carpeta se encuentran todos los modelos generados segun mutación, el analisis de frustración y las imagenes utilizadas:
 
