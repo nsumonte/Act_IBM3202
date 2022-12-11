@@ -44,10 +44,10 @@ Link de estructuras modeladas en SWISSMODEL:
 
 | Mutación |Link    | 
 |:--------|:-----------------|
-| S31 POR   L    |[LINK](https://swissmodel.expasy.org/interactive/KUcLvR/models/ | 
+| S31 POR   L    |[LINK](https://swissmodel.expasy.org/interactive/KUcLvR/models/) | 
 |S31 POR T      |  [LINK](https://swissmodel.expasy.org/interactive/FJqFeu/models/) | 
 | A97 POR H      | [LINK](https://swissmodel.expasy.org/interactive/2vnF5Z/models/) | 
 | A97 POR W     | [LINK](https://swissmodel.expasy.org/interactive/5yt5c2/models/) | 
 
-En la siguiente carpeta se encuentran todos los modelos generados segun mutación, el analisis de frustración y las imagenes utilizadas:
+En la siguiente carpeta se encuentran todos los modelos generados segun mutación, el analisis de frustración y las imagenes utilizadas: [LINK](https://drive.google.com/drive/folders/1HOS4RY8gfpyTX6hY59RM4MykyKDWRPLD?usp=share_link)
 
