@@ -31,3 +31,21 @@ Repositorio de scripts de actividades
 | 2.3.3       | Análisis de Trayectorias                   |    [Jupyter Notebook](https://colab.research.google.com/drive/14z2pAA5T6K2BKbz8URFdIMr7VprnM5Ff?usp=sharing) | 
 | 2.4.1       | Simulación base Dual  1                    |    [Jupyter Notebook](https://colab.research.google.com/drive/1eOclWSn6GSeEkAhj3d4Dm_AuaNvojvMF?usp=sharing) | 
 | 2.4.2       | Simulación base Dual  2                    |    [Jupyter Notebook](https://colab.research.google.com/drive/1ZLeTc-YPDTtEDs6w6TXmm-Q2dCp3Sol3?usp=sharing) | 
+
+## Proyecto:
+Para ejecutar GEOPPI se utilizó el siguiente link : https://github.com/Liuxg16/GeoPPI.
+Link de la estructura de folding: https://www.rcsb.org/structure/7SEM.
+Link de estructuras modeladas en SWISSMODEL: 
+
+<!-- Tick      : &#10003 -->
+<!-- Bold tick : &#10004 -->
+
+| Mutación |Link    | 
+|:--------|:-----------------|
+| S31 POR   L    |[LINK]https://swissmodel.expasy.org/interactive/KUcLvR/models/ | 
+|S31 POR T      |  [LINK](https://swissmodel.expasy.org/interactive/FJqFeu/models/) | 
+| A97 POR H      | [LINK](https://swissmodel.expasy.org/interactive/2vnF5Z/models/) | 
+| A97 POR W     | [LINK(https://swissmodel.expasy.org/interactive/5yt5c2/models/) | 
+
+En la siguiente carpeta se encuentran todos los modelos generados segun mutación, el analisis de frustración y las imagenes utilizadas:
+
